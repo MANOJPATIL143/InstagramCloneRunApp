@@ -25,7 +25,7 @@
 # Setup
 
 ```bash
-$ git clone https://github.com/FallenDeity/InstagramClone
+$ git clone https://github.com/MANOJPATIL143/InstagramCloneRunApp.git
 $ cd InstagramClone
 $ npm install
 ```
